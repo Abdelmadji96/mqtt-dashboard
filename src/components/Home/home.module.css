@@ -1,0 +1,17 @@
+.container {
+  background-color: rgba(199, 199, 199, 0.435);
+  height: 100vh;
+}
+
+.container h1 {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.roomsWrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+  flex: 1;
+}
